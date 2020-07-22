@@ -1,7 +1,4 @@
 // soal 1
-
-const { cornflowerblue } = require("color-name");
-
 // hasilkan output "saya Senang belajar JAVASCRIPT"
 var kataPertama = "saya";
 var kataKedua = "senang";
