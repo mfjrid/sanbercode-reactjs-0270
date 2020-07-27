@@ -122,6 +122,7 @@ class Clock {
     start() {
         this.render();
         this.timer = setInterval(() => this.render(), 1000);
+        // this.timer = setInterval(function () { this.render() }, 1000);
     }
 }
 
