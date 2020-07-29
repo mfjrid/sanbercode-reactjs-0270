@@ -103,6 +103,7 @@ class Clock {
         this.template = template
     }
     render() {
+        var self = this
         var date = new Date();
         var hours = date.getHours();
         if (hours < 10) hours = '0' + hours;
