@@ -11,7 +11,7 @@ hitungKelilingLingkaran = (r) => {
     return pembulatan;
 }
 console.log("Luas Lingkaran adalah : " + hitungLuasLingkaran(10))
-console.log("Keliling Lingkaran adalah : " + hitungKelilingLingkaran(10))
+console.log("Keliling Lingkaran adalah : " + hitungKelilingLingkaran(8))
 
 
 // soal 2
