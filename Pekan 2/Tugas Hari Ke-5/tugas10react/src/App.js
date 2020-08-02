@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 
+//App.js ini menggunakan css di App.css
 function App() {
   return (
     <div>
